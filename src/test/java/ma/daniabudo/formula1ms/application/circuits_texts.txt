@@ -1,0 +1,20 @@
+1,Circuit de Bahrain,5.412,57
+2,Circuit de Jeddah,6.174,50
+3,Melbourne Grand Prix Circuit,5.278,58
+4,Baku City Circuit,6.003,51
+5,Miami International Autodrome,5.412,57
+6,Monaco Grand Prix Circuit,3.337,78
+7,Spanish Grand Prix Circuit,4.675,66
+8,Canadian Grand Prix Circuit,4.361,70
+9,Red Bull Ring,4.318,71
+10,Silverstone Circuit,5.891,52
+11,Hungaroring,4.381,70
+12,Belgian Grand Prix Circuit,7.004,44
+13,Netherlands Grand Prix Circuit,4.259,72
+14,Monza Circuit,5.793,53
+15,Singapore Grand Prix Circuit,5.063,61
+16,Jeddah International Circuit,6.174,50
+17,Lusail International Circuit,5.419,57
+18,Brazilian Grand Prix Circuit,4.309,71
+19,Las Vegas Grand Prix Circuit,6.120,50
+20,Abu Dhabi Grand Prix Circuit,5.281,58

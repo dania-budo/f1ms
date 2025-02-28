@@ -1,0 +1,20 @@
+1,Lewis Hamilton,British,3
+2,George Russell,British,3
+3,Max Verstappen,Dutch,1
+4,Sergio Perez,Mexican,1
+5,Charles Leclerc,Monegasque,2
+6,Carlos Sainz,Spanish,2
+7,Lando Norris,British,5
+8,Oscar Piastri,Australian,5
+9,Fernando Alonso,Spanish,7
+10,Lance Stroll,Canadian,7
+11,Pierre Gasly,French,4
+12,Esteban Ocon,French,4
+13,Yuki Tsunoda,Japanese,6
+14,Nyck de Vries,Dutch,6
+15,Zhou Guanyu,Chinese,9
+16,Valtteri Bottas,Finnish,9
+17,Nico Hülkenberg,German,10
+18,Kevin Magnussen,Danish,10
+19,Alex Albon,Thai,8
+20,Liam Lawson,New Zealander,8
